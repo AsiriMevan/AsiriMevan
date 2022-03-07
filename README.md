@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am a Software Engineer and IoT Full-Stack Developer with experience in designing, coding, and testing complex systems. Coming with well honed skills in computer science in addition to excellent communication skills and possess strong ability to develop application using C, C++, and Java based tools.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![Asiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsiriMevan)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+

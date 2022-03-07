@@ -1,24 +1,19 @@
-### Hi there 👋
-
-
-I am a Software Engineer and IoT Full-Stack Developer with experience in designing, coding, and testing complex systems. Coming with well honed skills in computer science in addition to excellent communication skills and possess strong ability to develop application using C, C++, and Java based tools.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Adapt Information Technologies (Pvt) Ltd 
-- 🌱 I’m currently learning ... IOT,ML,Python and Gentoo Linux\
-- 💬 Ask me about ... Coding/ UI/UX designs
-- 📫 How to reach me: mevansenanayakems@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Asiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsiriMevan)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsiriMevan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm Mevan Senanayake</h1>
+<h3 align="center">I am a Software Engineer and IoT Full-Stack Developer with experience in designing, coding, and testing complex systems. Coming with well honed skills in computer science in addition to excellent communication skills and possess strong ability to develop application using C, C++, and Java based tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirimevan&label=Profile%20views&color=0e75b6&style=flat" alt="asirimevan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asirimevan" alt="asirimevan" /></a> </p>
+
+- 🔭 I’m currently working on **Adapt Information Technologies (Pvt) Ltd**
+
+- 🌱 I’m currently learning **IOT,ML,Python and Gentoo Linux**
+
+- 💬 Ask me about **Coding/ UI/UX designs**
+
+- 📫 How to reach me **mevansenanayakems@gmail.com**
+
+- ⚡ Fun fact **My favourite hobby is playing Basketball with my friends every weekend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +28,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asirimevan&show_icons=true&locale=en" alt="asirimevan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asirimevan&" alt="asirimevan" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsiriMevan&show_icons=true)

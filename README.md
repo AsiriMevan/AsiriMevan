@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mevan Senanayake</h1>
-<h3 align="center">I am a Software Engineer and IoT Full-Stack Developer with experience in designing, coding, and testing complex systems. Coming with well honed skills in computer science in addition to excellent communication skills and possess strong ability to develop application using C, C++, and Java based tools.</h3>
+<h3 align="center">I am a Software Engineer and Full-Stack Developer with experience in designing, coding, and testing complex systems. Coming with well honed skills in computer science in addition to excellent communication skills and possess strong ability to develop application using C, C++, and Java based tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asirimevan&label=Profile%20views&color=0e75b6&style=flat" alt="asirimevan" /> </p>
 

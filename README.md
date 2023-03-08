@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asirimevan" alt="asirimevan" /></a> </p>
 
-- 🔭 I’m currently working on **Adapt Information Technologies (Pvt) Ltd**
+- 🔭 I’m currently working on **Digiratina Technology Solutions Pvt. Ltd.**
 
 - 🌱 I’m currently learning **IOT,ML,Python and Gentoo Linux**
 
